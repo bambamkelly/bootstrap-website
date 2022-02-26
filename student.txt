@@ -1,0 +1,31 @@
+<?xml version="1.0" ?>
+<Students>
+	<Title>CISY 7203 Students and their classes</Title>
+	<Notes>
+		<![CDATA[
+		HERE ARE SOME ALFRED STATE'S BEST ANBD BRIGHTEST.
+		]]>
+	</Notes>
+	<Student SID = "123">
+		<Name>
+			<FName>Kelly </FName>
+			<LName>Bamfo></LName>
+
+		</Name>
+		<Status>Full Time student</Status>
+		<Major>Software Application Development</Major>
+		<Dorm>R/C</Dorm>
+		<Advisor>Evan Enke</Advisor>
+	</Students>
+	<Student SID = "456">
+		<Name>
+			<FName>Joyce </FName>
+			<LName>Chen</LName>
+
+		</Name>
+		<Status>Part Time Sudent</Status>
+		<Major>Web Development</Major>
+		<Dorm>Main Gate B</Dorm>
+		<Advisor>Keeney</Advisor>
+	</Students>
+</Students>

@@ -1,0 +1,23 @@
+Students
+{
+	Title{
+	 display: block;
+	 font-size: 18pt;
+	 color : blue;
+	}
+	Notes{
+	 display: block;
+	 font-size: 18pt;
+	 color : red;
+	}
+	Student{
+	 display: block;
+	 font-size: 1.5em;
+	 margin-top: 15pt 0 0 15pt;
+	 color : blue;
+	}
+	FName, LName{
+	text-decoration: underline
+	 color : blue;
+	}
+}
